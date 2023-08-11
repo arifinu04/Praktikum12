@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "711972781474",
+    "firebase_url": "https://projectfirebase-26e67-default-rtdb.firebaseio.com",
+    "project_id": "projectfirebase-26e67",
+    "storage_bucket": "projectfirebase-26e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711972781474:android:0222d72d1eff0c413346fb",
+        "android_client_info": {
+          "package_name": "com.app.praktikum12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711972781474-ndhqhp14akm2o7n8f7lq0o5jkfjanc0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAwxJNkzEAxAHRIjX2rrqHij3u1Ar-y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711972781474-ndhqhp14akm2o7n8f7lq0o5jkfjanc0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711972781474:android:3f77c6ab0dcbb6d13346fb",
+        "android_client_info": {
+          "package_name": "com.app.praktikum12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711972781474-ndhqhp14akm2o7n8f7lq0o5jkfjanc0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAwxJNkzEAxAHRIjX2rrqHij3u1Ar-y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711972781474-ndhqhp14akm2o7n8f7lq0o5jkfjanc0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
